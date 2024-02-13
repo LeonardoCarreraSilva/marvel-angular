@@ -1,0 +1,20 @@
+.app-header{
+
+  .mat-toolbar{
+    background-color: black;
+    color: white;
+    padding: 0 64px;
+  }
+
+  button:hover{
+    color: red;
+  }
+
+  img{
+    height: 64px;
+  }
+
+  .spacer{
+    flex: 1 1 auto;
+  }
+}
